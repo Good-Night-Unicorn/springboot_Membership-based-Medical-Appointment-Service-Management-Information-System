@@ -1,4 +1,4 @@
-## 基于Springboot+vue的会员制医疗预约服务管理信息系统(源代码+LW+数据库)
+## 基于Springboot+vue的招生管理系统(源代码+LW+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
@@ -51,21 +51,21 @@
 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
 ## 四、页面截图
-![图片](https://github.com/user-attachments/assets/88f263b2-1496-4bde-8ae2-3f8370ac7f5a)
-![图片](https://github.com/user-attachments/assets/1877e766-cc0f-4512-b550-d4ac2537406c)
-![图片](https://github.com/user-attachments/assets/4c99dad4-4daa-4168-9b71-15ba4d5ba9fa)
-![图片](https://github.com/user-attachments/assets/29df1d9f-a5d1-40e3-bf6e-caefbe0085f7)
-![图片](https://github.com/user-attachments/assets/c4eb46f6-74cd-49ce-94b2-b3102b8f87a2)
-![图片](https://github.com/user-attachments/assets/7fe2e64b-10de-4620-a988-07aad6f5f31f)
-![图片](https://github.com/user-attachments/assets/302085f4-a58c-44b4-ae38-0d9054211ad7)
-![图片](https://github.com/user-attachments/assets/f48575ff-df16-4831-8160-fcb6da10b8f8)
-![图片](https://github.com/user-attachments/assets/33d30bf0-78c4-4c74-a700-e63b9a309fbd)
-![图片](https://github.com/user-attachments/assets/51925c8f-fc10-40ec-bb23-68a7e968c9be)
-![图片](https://github.com/user-attachments/assets/76cc013d-93eb-4b64-b992-40f641ea1364)
-![图片](https://github.com/user-attachments/assets/ba21e37a-ed27-4207-af95-127d45df996a)
-![图片](https://github.com/user-attachments/assets/985565eb-9e92-402b-b421-3b60707e13ef)
-![图片](https://github.com/user-attachments/assets/3143bb9b-9f48-413c-b9be-9a9288528c5e)
-![图片](https://github.com/user-attachments/assets/886a949b-87ac-491e-bea5-b4ccf91358ec)
+![图片](https://github.com/user-attachments/assets/ab7494e7-abf9-4fcc-8df5-d5fa6f8cf75b)
+![图片](https://github.com/user-attachments/assets/40012a4f-f468-44fd-8635-3c6b43d7ffef)
+![图片](https://github.com/user-attachments/assets/3ab14e9c-7795-4f5a-ba1a-31db769e0e24)
+![图片](https://github.com/user-attachments/assets/771deb0e-a8b6-4644-9c3d-f9e911eeaf2a)
+![图片](https://github.com/user-attachments/assets/64ff79b0-6b9d-4afd-b9d8-23da679d78a5)
+![图片](https://github.com/user-attachments/assets/777f9932-4f27-4c92-9c91-4fa9e3579e66)
+![图片](https://github.com/user-attachments/assets/73ba1ffe-aac6-4d1c-aa02-4ed9a940c205)
+![图片](https://github.com/user-attachments/assets/bdcaf3ea-d044-4d9d-803c-ace53c6ccd5b)
+![图片](https://github.com/user-attachments/assets/fe5cdd08-1ec7-4dca-a80a-a157c26fc13c)
+![图片](https://github.com/user-attachments/assets/977e2507-08fa-43a8-ab32-e813dc09182c)
+![图片](https://github.com/user-attachments/assets/6724f08f-5e68-4ba6-90bd-694d3a3a97a4)
+![图片](https://github.com/user-attachments/assets/fd325841-2a3a-4080-ab38-4aac218d9806)
+![图片](https://github.com/user-attachments/assets/8922e833-9063-492a-a32f-e68ef374dc92)
+
+![图片](https://github.com/user-attachments/assets/4c94e116-a416-4fec-99c6-fead25fe716f)
 
 ## 五、浏览地址
 
